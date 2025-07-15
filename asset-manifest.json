@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spidr-challenge/static/css/main.e76d6281.css",
+    "main.js": "/spidr-challenge/static/js/main.28a3e8b9.js",
+    "static/js/453.c73ca6c3.chunk.js": "/spidr-challenge/static/js/453.c73ca6c3.chunk.js",
+    "index.html": "/spidr-challenge/index.html",
+    "main.e76d6281.css.map": "/spidr-challenge/static/css/main.e76d6281.css.map",
+    "main.28a3e8b9.js.map": "/spidr-challenge/static/js/main.28a3e8b9.js.map",
+    "453.c73ca6c3.chunk.js.map": "/spidr-challenge/static/js/453.c73ca6c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e76d6281.css",
+    "static/js/main.28a3e8b9.js"
+  ]
+}
